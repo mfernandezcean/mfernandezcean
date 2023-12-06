@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================================
 
 * 🌍  I'm based in Asuncion, Paraguay
-* 🔭  I'm looking to land a Data Analyst Job
+* 🔭  I'm looking for new challenges in Data 
 * ✉️  You can contact me at [mfernandezcean@gmail.com](mailto:mfernandezcean@gmail.com) / https://mfernandezcean.carrd.co/ 
-* 🧠  I'm learning SQL, Power BI, Python
+* 🧠  Recently passed the PL-300
 * 🤝  I'm open to collaborate on Data Analytics
 
 
